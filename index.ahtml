@@ -4,9 +4,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="BENEVOL: The 24th Belgium-Netherlands Software Evolution Workshop">
+  <meta name="description" content="BENEVOL: The 25th Belgium-Netherlands Software Evolution Workshop">
   <meta name="author" content="Vadim Zaytsev">
-  <title>BENEVOL 2025</title>
+  <title>BENEVOL 2026</title>
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet">
@@ -22,7 +22,7 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg" id="mainNav">
   <div class="container">
-    <a class="navbar-brand js-scroll-trigger" href="#page-top">BENEVOL 2025</a>
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">BENEVOL 2026</a>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
             data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
             aria-label="Toggle navigation">
@@ -58,13 +58,13 @@
   <div class="container">
     <div class="row outer">
       <div class="inner1">
-        <img class="img-fluid" src="img/logo-benevol.png" alt="BENEVOL 2025">
+        <img class="img-fluid" src="img/logo-benevol.png" alt="BENEVOL 2026">
         <hr>
       </div>
       <div class="inner2">
-        <h2>The 24<sup>th</sup> <span class="hl">Be</span>lgium-<span class="hl">Ne</span>therlands
+        <h2>The 25<sup>th</sup> <span class="hl">Be</span>lgium-<span class="hl">Ne</span>therlands
           Software E<span class="hl">vol</span>ution Workshop</h2>
-        <h2><span class="hl">17–18 November</span> 2025, Enschede, The Netherlands</h2>
+        <h2><span class="hl">26-27 November</span> 2026, Madrid, Spain</h2>
       </div>
     </div>
   </div>
@@ -74,6 +74,10 @@
   <div class="container">
     <h2>Programme</h2>
     <hr>
+    <p class="text">
+      The programme will be published on due time.
+    </p>
+<!--
     <div class="col">
       <div class="row">
         <p class="text">
@@ -90,222 +94,48 @@
             <th colspan="2">
               <div class="big-day">16</div>
               <div>Sunday</div>
-              <div>November 2025</div>
+              <div>November 2026</div>
             </th>
-          </tr>
-          <tr>
-            <td>19:00 – 23:00</td>
-            <td>
-              Unofficial pre-opening at
-              <br>🍺<a href="https://stanislausbrewskovitch.nl/">Stanislaus Brewskovitch</a> and
-              <br>🍻<a href="https://twentschefoodhal.nl/">Twentsche Foodhal</a>🍔
-            </td>
           </tr>
           <tr class="sep"></tr>
           <tr>
             <th colspan="2">
-              <div class="big-day">17</div>
-              <div>Monday</div>
-              <div>November 2025</div>
+              <div class="big-day">26</div>
+              <div>Thursday</div>
+              <div>November 2026</div>
             </th>
           </tr>
           <tr>
-            <td>09:00 – 09:45</td>
-            <td>Reception, tea, coffee</td>
+            <td>09:00 – 17:00 (tentative schedule)</td>
+            <td>Conference (frist day)</td>
           </tr>
           <tr>
-            <td>09:45 – 10:00</td>
-            <td>Workshop opening</td>
-          </tr>
-          <tr>
-            <td>10:00 – 11:00</td>
-            <td class="with-emoji">
-              <strong>🔥 Keynote:</strong>
-              <span class="talk"><em>From the Trenches</em></span>
-              <br>
-              <span class="author presenter with-emoji">Darius Blasband</span>
-            </td>
-          </tr>
-          <tr>
-            <td>11:00 – 11:30</td>
-            <td>Break</td>
-          </tr>
-          <tr>
-            <td>11:30 – 12:30</td>
-            <td><strong>Efficiency and Intelligence in Code Generation</strong></td>
-          </tr>
-          <tr>
-            <td colspan="2">
-              <table class="sch">
-                ¶schedule:01
-                ¶schedule:02
-                ¶schedule:03
-              </table>
-            </td>
-          </tr>
-          <tr>
-            <td>12:35 – 13:40</td>
-            <td>Lunch</td>
-          </tr>
-          <tr>
-            <td>13:40 – 15:00</td>
-            <td><strong>Mining and Modelling of Software Knowledge</strong>
-          </tr>
-          <tr>
-            <td colspan="2">
-              <table class="sch">
-                ¶schedule:04
-                ¶schedule:05
-                ¶schedule:06
-                ¶schedule:07
-                ¶schedule:08
-                ¶schedule:09
-              </table>
-            </td>
-          </tr>
-          <tr>
-            <td>15:00 – 15:30</td>
-            <td>Break</td>
-          </tr>
-          <tr>
-            <td>15:30 – 16:30</td>
-            <td><strong>Structure and Visualisation in Evolving Software Systems</strong></td>
-          </tr>
-          <tr>
-            <td colspan="2">
-              <table class="sch">
-                ¶schedule:10
-                ¶schedule:11
-                ¶schedule:12
-              </table>
-            </td>
-          </tr>
-          <tr>
-            <td>17:00</td>
-            <td>
-              <strong>Group photos</strong>
-              <div class="images-col" style="padding-top: 1em;">
-                <a href="img/group-photo-ls.jpg" target="_blank" class="img-link">
-                    <img src="img/group-photo-thumb-ls.jpg" alt="Group photo of almost all BENEVOL participants, photo courtesy of Lola Solovyeva" title="photo courtesy of Lola Solovyeva">
-                </a>
-                <a href="img/group-photo-vz.jpg" target="_blank" class="img-link">
-                    <img src="img/group-photo-thumb-vz.jpg" alt="Group photo of almost all BENEVOL participants, photo courtesy of Vadim Zaytsev" title="photo courtesy of Vadim Zaytsev">
-                </a>
-              </div>
-            </td>
-          </tr>
-          <tr>
-            <td>18:00 – 23:00</td>
-            <td>🍜 Dinner at U Park Hotel</td>
+            <td>20:30 – 23:00 (tentative schedule)</td>
+            <td>Conference dinner </td>
           </tr>
           <tr class="sep"></tr>
           <tr>
             <th colspan="2">
-              <div class="big-day">18</div>
+              <div class="big-day">27</div>
               <a id="program-day2"></a>
-              <div>Tuesday</div>
-              <div>November 2025</div>
+              <div>Friday</div>
+              <div>November 2026</div>
             </th>
           </tr>
           <tr>
-            <td>
-              09:30 – 10:30
-              <br>
-              (<a href="slides/deck15.pdf" class="ext">🖥️slides</a>)
-            </td>
-            <td class="with-emoji">
-              <strong>🔥 Keynote:</strong>
-              <span class="talk">
-                <a href="pre/paper15.pdf">Language-Level Support for Multiple Versions for Software Evolution</a>
-              </span>
-              <br>
-              <span class="author presenter">Hidehiko Masuhara</span>
-            </td>
-          </tr>
-          <tr>
-            <td>10:30 – 11:00</td>
-            <td>Break</td>
-          </tr>
-          <tr>
-            <td>11:00 – 11:50</td>
-            <td><strong>Evolving Software Ecosystems</strong></td>
-          </tr>
-          <tr>
-            <td colspan="2">
-              <table class="sch">
-                ¶schedule:13
-                ¶schedule:14
-                ¶schedule:16
-                ¶schedule:17
-              </table>
-            </td>
-          </tr>
-          <tr>
-            <td>11:50 – 12:45</td>
-            <td>Lunch</td>
-          </tr>
-          <tr>
-            <td>13:00 – 14:30</td>
-            <td>
-              💾 <strong>Social event</strong>: a visit to the <a href="https://studieverzameling.utwente.nl/"><strong>Historic Study Collection</strong></a> (<a href="https://www.utwente.nl/download/campusmap.pdf">Carré</a> building)
-              <div class="images-col" style="padding-top: 1em;">
-                <a href="img/siemens-hell-schrijver.jpg" target="_blank" class="img-link">
-                    <img src="img/siemens-hell-schrijver-thumb.jpg" alt="Siemens Hell Schrijver from 1960, photo courtesy of Nhat Bui" title="photo courtesy of Nhat Bui">
-                </a>
-              </div>
-            </td>
-          </tr>
-          <tr>
-            <td>14:30 – 15:00</td>
-            <td>Break</td>
-          </tr>
-          <tr>
-            <td>15:00 – 16:00</td>
-            <td><strong>Software Testing</strong></td>
-          </tr>
-          <tr>
-            <td colspan="2">
-              <table class="sch">
-                ¶schedule:20
-                ¶schedule:19
-                ¶schedule:18
-              </table>
-            </td>
-          </tr>
-          <tr>
-            <td>16:00 – 16:10</td>
-            <td>Break</td>
-          </tr>
-          <tr>
-            <td>16:10 – 17:00</td>
-            <td><strong>Tool Market</strong></td>
-          </tr>
-          <tr>
-            <td colspan="2">
-              <table class="sch">
-                ¶schedule:gawd
-                ¶schedule:ghmap
-                ¶schedule:CPSLint
-                ¶schedule:rust-gpu-hybrid-compiler
-                ¶schedule:RESTCov
-              </table>
-            </td>
-          </tr>
+            <td>09:00 – 17:00 (tentative schedule)</td>
+            <td>Conference (second day)</td>
           <tr>
             <td>17:00 +</td>
             <td>
               Closing and afterparty
-              <div class="images-col" style="padding-top: 1em;">
-                <a href="img/benevol26.png" class="img-link">
-                    <img src="img/benevol26.png" alt="BENEVOL 2026" title="logo proposal drawn by Vadim Zaytsev">
-                </a>
-              </div>
             </td>
           </tr>
           </tbody>
         </table>
       </div>
     </div>
+-->
   </div>
 </section>
 
@@ -502,60 +332,23 @@
     <div class="row">
       <div class="col">
         <p class="text">
-          The hosting organisation is the <a href="https://www.utwente.nl/en/contact/route/">University of Twente</a>,
-          the location is the <strong>C2 room</strong> of the <a href="https://www.uparkhotel.nl/en">U Park Hotel</a>
-          on the campus of the said university.
-          The pre-opening on Day 0 (16 November) takes place in the city centre of Enschede.
-          The social event on Day 2 (18 November) takes place in the Carré building on the campus.
+          Benevol 2026 will happen in the
+          <a href="https://en.urjc.es/universidad/campus/sedes#situacion-y-planos-2">Quintana building</a>
+          of the <a href="https://www.urjc.es/">Universidad Rey Juan Carlos</a> (URJC) in Madrid, Spain.
         </p>
 
-        <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4886.145664533968!2d6.848552289726094!3d52.24206074261589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b813c89a5f5b5d%3A0xb418abdfcf79aa17!2sU%20Parkhotel!5e0!3m2!1sen!2snl!4v1762341330387!5m2!1sen!2snl"
-            height="450" allowfullscreen="" loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe style="width: 100%; height: 600px; border: 0;" allowfullscreen allow="geolocation"
+          src="//umap.openstreetmap.fr/es/map/benevol-2026_1368548?scaleControl=true&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=42116486-6e4e-46b0-9fb7-1be99564ff56&feature=BENEVOL%202026%20(URJC)#17/40.428929/-3.716404">
+        </iframe>
+        <p>
+          <a href="//umap.openstreetmap.fr/es/map/benevol-2026_1368548?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=42116486-6e4e-46b0-9fb7-1be99564ff56&feature=BENEVOL%202026%20(URJC)#17/40.428929/-3.716404">Full screen</a>
+        </p>
+
 
         <p class="text">
-          The University of Twente is located between two cities: <strong>Hengelo</strong> and <strong>Enschede</strong>.
-          We recommend choosing one of the following options for your stay:
-        </p>
-        <ul>
-          <li>
-            <strong>Campus</strong>: stay directly at the <a href="https://www.uparkhotel.nl/en/sleep">U Park Hotel</a>.
-            If you mention you are coming for BENEVOL, they will charge you the discounted price of €123–138
-            for the night between the workshop days and/or €133–138 for the night before the workshop.
-            We have reserved a small block of room specifically for this purpose.
-            If they run out of available rooms or if you prefer a cheaper alternative,
-            we recommend <a href="https://www.fletcherhotelenschede.nl/en/">De Broeierd (Fletcher)</a>
-            which is across the road from the campus and will put you at 15–20 minutes walking from the workshop venue.
-          </li>
-          <li>
-            <strong>City</strong>: choose either <a
-              href="https://www.booking.com/searchresults.en-gb.html?ss=Hengelo%2C+Overijssel%2C+Netherlands&amp;efdco=1&amp;label=gen173nr-10CAEoggI46AdIM1gEaKkBiAEBmAEzuAEHyAEP2AED6AEB-AEBiAIBqAIBuAKD8aTIBsACAdICJDQ1YjNhZDZlLTdlYTQtNDI4OC05YTIzLWY1ZDA0YjIzMDc5Y9gCAeACAQ&amp;sid=4ca5879ec1b78e77c3df05bfffde7d2b&amp;aid=304142&amp;lang=en-gb&amp;sb=1&amp;src_elem=sb&amp;src=index&amp;dest_id=-2145890&amp;dest_type=city&amp;ac_position=0&amp;ac_click_type=b&amp;ac_langcode=en&amp;ac_suggestion_list_length=5&amp;search_selected=true&amp;search_pageview_id=a8c8a401eaf10866&amp;ac_meta=GhBhOGM4YTQwMWVhZjEwODY2IAAoATICZW46BGhlbmdAAEoAUAA%3D&amp;checkin=2025-11-16&amp;checkout=2025-11-18&amp;group_adults=1&amp;no_rooms=1&amp;group_children=0#map_opened">
-            Hengelo</a> or <a
-              href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-10CAEoggI46AdIM1gEaKkBiAEBmAEzuAEHyAEP2AED6AEB-AEBiAIBqAIBuAKD8aTIBsACAdICJDQ1YjNhZDZlLTdlYTQtNDI4OC05YTIzLWY1ZDA0YjIzMDc5Y9gCAeACAQ&amp;sid=4ca5879ec1b78e77c3df05bfffde7d2b&amp;aid=304142&amp;ss=Enschede+Station%2C+Enschede%2C+Overijssel%2C+Netherlands&amp;ssne=Hengelo&amp;ssne_untouched=Hengelo&amp;lang=en-gb&amp;src=searchresults&amp;dest_id=434&amp;dest_type=landmark&amp;ac_position=0&amp;ac_click_type=b&amp;ac_langcode=en&amp;ac_suggestion_list_length=5&amp;search_selected=true&amp;search_pageview_id=4deb000e657a076e&amp;checkin=2025-11-16&amp;checkout=2025-11-18&amp;group_adults=1&amp;no_rooms=1&amp;group_children=0&amp;nflt=oos%3D1">
-            Enschede</a> and stay in one of the bookable hotels around their corresponding Central Station.
-            Then, take <em>bus 9</em> towards the campus, either <a
-              href="https://www.google.com/maps/dir/Hengelo,+Centraal+Station,+7551+CN+Hengelo/U+Parkhotel,+De+Veldmaat,+Enschede/@52.2422187,6.7990764,13z/data=!3m2!4b1!5s0x47b813d9720e2eed:0x59d493eb7abb728f!4m14!4m13!1m5!1m1!1s0x47b811e3544f3229:0xbaee896395ebc888!2m2!1d6.7940889!2d52.2623014!1m5!1m1!1s0x47b813c89a5f5b5d:0xb418abdfcf79aa17!2m2!1d6.8555314!2d52.2430232!3e3?entry=ttu&amp;g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D">from
-            Hengelo</a> or <a
-              href="https://www.google.com/maps/dir/Enschede+Centraal+Station,+Niederlande,+Enschede/U+Parkhotel,+De+Veldmaat,+Enschede/@52.231688,6.8443782,14z/data=!3m2!4b1!5s0x47b813d9720e2eed:0x59d493eb7abb728f!4m14!4m13!1m5!1m1!1s0x47b8147510042cfd:0x6ad8eb288733dbeb!2m2!1d6.89025!2d52.22236!1m5!1m1!1s0x47b813c89a5f5b5d:0xb418abdfcf79aa17!2m2!1d6.8555314!2d52.2430232!3e3?entry=ttu&amp;g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D">from
-            Enschede</a>, and exit it at either <em>Kennispark/UT</em> or <em>Westerbegraafplaats/UT</em>.
-            Commuting by bus from either central station will take 20–25 minutes,
-            including the walking time, to the venue.
-            You can pay on the bus by swiping your bank card at the entrance
-            and exit without any registration.
-            Alternatively, you can also ask the human driver to give you a more expensive but old-fashioned paper
-            ticket.
-          </li>
-        </ul>
-        <p class="text">
-          The former option adds a bit to your initial and final travel time, but puts you one elevator ride away from
-          the workshop and enables you to take a stroll through our very green campus early in the morning or late in
-          the afternoon.
-          The campus is essentially a town of its own, with cafés, supermarkets, hairdressers, swimming pools, and
-          whatnot.
-          The latter option simplifies your journey but adds a bus ride at the start and end of each day.
-          Hengelo is slightly easier to reach from Germany,
-          and Enschede is slightly easier to reach from the west of the Netherlands.
+          The Quintana Building of URJC is located in the center of Madrid. There are plenty of hotels and other
+          accommodations nearby. In addition, it is at walking distance from two metro (subway) stations,
+          Arguelles and Ventura Rodriguez, served by three metro lines (Line 3, Line 4, and Line 6).
         </p>
         <p class="text">
           Choose wisely! And do get in touch with general/local chairs if you need any assistance.
@@ -638,7 +431,7 @@
           Policy on AI assisting tools</a> for more information.
         </p>
         <p class="text">
-          Papers should be submitted via <a href="https://easychair.org/conferences?conf=benevol2025">EasyChair</a>.
+          Papers should be submitted via <a href="https://easychair.org/conferences?conf=benevol2026">EasyChair</a>.
           Please mark the category it belongs to. You can upload incremental
           versions of your paper, so do not wait until the last minute to submit it.
         </p>
