@@ -1335,7 +1335,14 @@ html {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 72px);
-  background: linear-gradient(to bottom, rgba(99, 99, 99, 0.2) 0, rgba(6, 5, 4, 0.7) 100%), url(../img/ut-tower.jpg);
+  /* 
+    Source: https://www.pexels.com/es-es/foto/ciudad-punto-de-referencia-edificio-banderas-26756022/ 
+  */
+  background: linear-gradient(to bottom, rgba(99, 99, 99, 0.2) 0, rgba(6, 5, 4, 0.7) 100%), url(../img/cibeles-1.jpg);
+  /* 
+    Source: https://www.pexels.com/es-es/foto/vehiculo-en-la-carretera-con-fotografia-secuencial-de-edificios-de-gran-altura-165637/
+  */
+  /* background: linear-gradient(to bottom, rgba(99, 99, 99, 0.2) 0, rgba(6, 5, 4, 0.7) 100%), url(../img/madrid-1.jpg); */
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
